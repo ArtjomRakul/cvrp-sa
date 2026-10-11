@@ -1,0 +1,3 @@
+# Algoritms un testēšana izmanto tikai Python standarta bibliotēku.
+# Neobligāti: tikai maršrutu attēlam (python run.py ... --plot fails.png).
+matplotlib>=3.7

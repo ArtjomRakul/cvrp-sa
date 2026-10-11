@@ -1,0 +1,9 @@
+{
+ "cpu": "13th Gen Intel Core i5-13420H",
+ "python": "3.14.7",
+ "os": "Windows 11",
+ "date": "2026-10-10",
+ "iters_per_customer": 50000,
+ "seeds": 5,
+ "p0": 0.1
+}

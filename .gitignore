@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.idea/
+.venv/
+results/parts/
+results_check/
+results_quick/
