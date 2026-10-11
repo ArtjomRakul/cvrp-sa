@@ -1,4 +1,4 @@
-# CVRP ar simulēto rūdīšanu
+# CVRP ar simulēto rūdīšanu (CVRP + SA)
 
 Mazais praktiskais darbs kursā *Praktiskā kombinatoriālā optimizācija* (LU, 2026).
 
